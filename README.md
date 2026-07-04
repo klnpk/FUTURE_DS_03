@@ -102,6 +102,7 @@ This project presents an interactive **Marketing Funnel & Conversion Performance
 
 ## 📷 Dashboard Preview
 
+<img width="856" height="749" alt="dashboard" src="https://github.com/user-attachments/assets/09bdf77d-71b1-43de-88ce-3b3e9b7585c6" />
 
 
 
